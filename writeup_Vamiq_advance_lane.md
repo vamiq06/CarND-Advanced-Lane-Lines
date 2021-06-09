@@ -110,7 +110,7 @@ In the eight and ninth cell, we use `cv2.getperspectiveTransform()` function aga
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Using this pipeline I create a function `pipeline()` in the 11th coding cell and my video result is located at `./output/project_video_output.mp4`
+Using this pipeline I create a function `pipeline()` in the 11th coding cell and my video result is located at `./output_images/project_video_output.mp4`
 
 
 
